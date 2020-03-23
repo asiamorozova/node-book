@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/asiamorozova/node-book#readme",
   "dependencies": {
-    "create-alchemy-bootstrap": "^1.0.0"
+    "create-alchemy-bootstrap": "^1.0.0",
+    "formidable": "^1.2.2"
   }
 }

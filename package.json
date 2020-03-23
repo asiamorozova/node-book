@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/asiamorozova/node-book/issues"
   },
-  "homepage": "https://github.com/asiamorozova/node-book#readme"
+  "homepage": "https://github.com/asiamorozova/node-book#readme",
+  "dependencies": {
+    "create-alchemy-bootstrap": "^1.0.0"
+  }
 }
